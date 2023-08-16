@@ -1,1 +1,2 @@
-web: streamlit run youtube2.py --server.enableCORS false
+streamlit run youtube2.py --server.port 80
+

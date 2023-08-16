@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'xyoutube'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_C433CAC211C04DE386910B493D61496F }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E64C0C1B30654132ACFFF1D0E99FADB5 }}

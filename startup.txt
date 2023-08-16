@@ -1,0 +1,1 @@
+web: streamlit run youtube2.py --server.enableCORS false
